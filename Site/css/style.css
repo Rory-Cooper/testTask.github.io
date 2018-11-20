@@ -35,7 +35,6 @@ p {
 }
 
 .logo__link {
-  
   color: #ffffff;
   font-family: 'Intro', sans-serif;
   font-size: 12px;
@@ -82,7 +81,7 @@ p {
   color: #ffffff;
   -webkit-box-shadow: 0px 0px 0px 5px #6e6b51;
           box-shadow: 0px 0px 0px 5px #6e6b51;
-  border-bottom: 1px solid #6e6b51;
+  border-bottom: none;
 }
 
 .menu__link_active {
